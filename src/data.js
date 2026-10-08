@@ -77,7 +77,7 @@ export const training = [
   {
     title: "Guidance from programme facilitators",
     tag: "Continued mentoring",
-    text: "Mrs. Yawa and other student assistance representatives trained and mentored us, with support continuing throughout the year.",
+    text: "Mrs. Yawa (our FEBEIT Dean) and other student assistance representatives trained and mentored us, with support continuing throughout the year.",
     application:
       "The programme helped me develop my teaching approach and confidence alongside my technical skills.",
   },
