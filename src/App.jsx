@@ -269,7 +269,7 @@ function Training() {
 
         <p>
           The FEBEIT Tutor Training and Preparation Programme was facilitated
-          by Mrs. Yawa and other student assistance representatives. Training
+          by Mrs. Yawa (our FEBEIT Dean) and other student assistance representatives. Training
           took place at the start of both semesters, with mentoring continuing
           throughout the year.
         </p>
